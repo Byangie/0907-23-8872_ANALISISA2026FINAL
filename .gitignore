@@ -1,0 +1,13 @@
+.vs/
+bin/
+obj/
+
+*.user
+*.suo
+*.cache
+
+EnviosRapidosGT/bin/
+EnviosRapidosGT/obj/
+
+EnviosRapidosGT.Tests/bin/
+EnviosRapidosGT.Tests/obj/

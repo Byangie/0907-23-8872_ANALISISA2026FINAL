@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="EnviosRapidosGT.Tests/EnviosRapidosGT.Tests.csproj" />
+  <Project Path="EnviosRapidosGT/EnviosRapidosGT.csproj" />
+</Solution>
